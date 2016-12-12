@@ -22,6 +22,7 @@ Code --> Convert Java File to Kotlin File
 进入文件夹查看原文件也会发现MainActivity的后缀名不是.java 而是.kt
 这说明之前添加的MainActivity.java ---> MainActivity.kt
 
+运行应用程序，就能看到修改成Kotlin语法之后的android代码成功的运行起来
 
 
 
